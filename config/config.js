@@ -7,5 +7,6 @@ module.exports = {
       key: 'USPhoneNumber',
       regex: /\(?(\d{3})[\)?\ |\.|\-]\d{3}[\ |\.|\-]\d{4}/
     }
-  ]
+  ],
+  logging: { level: 'info' }
 };
