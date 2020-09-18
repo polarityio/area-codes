@@ -1,6 +1,6 @@
 module.exports = {
   name: 'Area Code Lookup',
-  acronym: 'AreaCode',
+  acronym: 'AREA',
   description: 'Looks up area code prefix to determine US State',
   customTypes: [
     {
