@@ -8,5 +8,14 @@ module.exports = {
       regex: /\(?(\d{3})[\)?\ |\.|\-]\d{3}[\ |\.|\-]\d{4}/
     }
   ],
-  logging: { level: 'info' }
+  defaultColor: 'light-gray',
+  logging: { level: 'info' },
+  request: {
+    cert: '',
+    key: '',
+    passphrase: '',
+    ca: '',
+    proxy: '',
+    rejectUnauthorized: true
+  }
 };
