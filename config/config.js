@@ -8,5 +8,6 @@ module.exports = {
       regex: /\(?(\d{3})[\)?\ |\.|\-]\d{3}[\ |\.|\-]\d{4}/
     }
   ],
+  defaultColor: 'light-gray',
   logging: { level: 'info' }
 };
