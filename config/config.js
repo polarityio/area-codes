@@ -9,5 +9,13 @@ module.exports = {
     }
   ],
   defaultColor: 'light-gray',
-  logging: { level: 'info' }
+  logging: { level: 'info' },
+  request: {
+    cert: '',
+    key: '',
+    passphrase: '',
+    ca: '',
+    proxy: '',
+    rejectUnauthorized: true
+  }
 };
