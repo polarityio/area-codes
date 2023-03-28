@@ -1,4 +1,5 @@
 {
+  "polarityIntegrationUuid": "c8d73b90-cce1-11ed-aeee-075d3490155d",
   "name": "Area Code Lookup",
   "acronym": "AREA",
   "description": "Looks up area code prefix to determine US State",
